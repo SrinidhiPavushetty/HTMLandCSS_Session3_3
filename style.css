@@ -1,0 +1,24 @@
+body{
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.a{
+    width: 20%;
+    padding: 10px; 
+    margin: auto;
+    font-style:normal;
+}
+.a .a_1{
+    width: 100%;
+    margin:auto;
+    padding:10px;
+    text-align: center;
+}
